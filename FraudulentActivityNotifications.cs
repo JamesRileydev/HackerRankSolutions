@@ -1,4 +1,4 @@
-// This solution passes all test cases
+// The first solution passes all test cases
 
 
  static int activityNotifications(int[] expenditure, int d)
