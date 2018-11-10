@@ -58,9 +58,9 @@
                 {
                     double median = 0;
                     var half = d / 2;
-                    int val;
-					
-					//this for loop and the following if statement are a little unclear to me but they work
+			
+//this for loop and the following if statement are a little unclear to me but they work
+                    int val;		
                     for (val = 0; values[val] < half; val++)
                     {
                         half -= values[val];
